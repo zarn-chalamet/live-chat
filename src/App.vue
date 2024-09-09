@@ -13,8 +13,4 @@ import { RouterLink, RouterView } from 'vue-router'
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-body{
-  background-color: rgb(205, 220, 233);
-  color: gray;
-}
 </style>

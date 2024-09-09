@@ -39,15 +39,15 @@ export default {
 </script>
 
 <style>
-     .welcome {
-        text-align: center;
-        padding: 20px 0;
-        background-color: white;
-        width: 90%;
-        max-width: 700px;
-        border-radius: 10px;
-        margin: 80px auto;
-      }
+  .welcome {
+    text-align: center;
+    padding: 20px 0;
+    background-color: white;
+    width: 90%;
+    max-width: 900px;
+    border-radius: 10px;
+    margin: 80px auto;
+  }
   /* form styles */
   .welcome form {
     width: 300px;
@@ -70,14 +70,6 @@ export default {
     font-weight: bold;
     text-decoration: underline;
     cursor: pointer;
-  }
-  .welcome button {
-    margin: 20px auto;
-    padding: 8px;
-    background-color: green;
-    border: none;
-    color: white;
-    border-radius: 4px;
   }
   p{
     font-size: small;

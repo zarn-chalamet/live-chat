@@ -48,11 +48,4 @@ export default {
         font-size: 14px;
         color: #999;
       }
-      nav button {
-        padding: 8px;
-        background-color: green;
-        border: none;
-        color: white;
-        border-radius: 4px;
-    }
 </style>
