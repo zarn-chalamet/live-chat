@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "date-fns": "^3.6.0",
     "firebase": "^9.23.0",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
